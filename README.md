@@ -1,3 +1,3 @@
 # Wenxuan Huang
 
-Academic homepage, published at [https://huangwenxuan875-debug.github.io](https://huangwenxuan875-debug.github.io).
+Academic homepage, published at [https://huang-wenxuan.github.io](https://huang-wenxuan.github.io).
