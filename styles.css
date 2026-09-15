@@ -158,6 +158,10 @@ html[data-lang="zh"] .running {
   animation: rise 0.9s ease both;
 }
 
+.hero .meta {
+  margin-top: 28px;
+}
+
 .kicker {
   margin: 0 0 12px;
   color: var(--cinnabar);
@@ -317,12 +321,6 @@ h2 {
   display: block;
   color: var(--ink-soft);
   font-size: 0.95em;
-}
-
-.note,
-.book {
-  color: var(--ink-soft);
-  font-size: 0.95rem;
 }
 
 .timeline {
